@@ -9,5 +9,6 @@
     <orderEntry type="library" name="jquery-3.2.1" level="application" />
     <orderEntry type="library" name="froogaloop2" level="application" />
     <orderEntry type="library" name="queue.v1" level="application" />
+    <orderEntry type="library" name="leaflet" level="application" />
   </component>
 </module>
